@@ -103,3 +103,5 @@ The `receiver` and `controller` folders contain the complete Java source and man
 - 构建前需将警报音频 `alert.wav` 放入 `receiver/res/raw/alert.wav`
 
 **使用方法：** 手机装 `apk/PhoneReceiver.apk`，手表装 `apk/WatchController.apk`，两端连同一路由器，手表输入手机局域网 IP，点【开启警报】即可。详细步骤与故障排查见 [docs/usage-troubleshooting.md](docs/usage-troubleshooting.md)（含 AP 隔离、杀进程、防火墙等已知问题）。
+
+**注**：此软件使用了**AI编写**，但是**保证稳定性**，中国人不骗中国人，来都来了，试试嘛
